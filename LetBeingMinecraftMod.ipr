@@ -34,6 +34,11 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="D:/gradle-2.3" />
         <option name="gradleJvm" value="1.7 (1)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
@@ -229,159 +234,12 @@
     <library name="Gradle: com.google.guava:guava:17.0">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar!/" />
-        <root url="file://$USER_HOME$/.gradle/caches/2.3" />
       </CLASSES>
       <JAVADOC>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/18a375325d213ba5ae90706790fbbb3fd51b9a01/guava-17.0-javadoc.jar!/" />
-        <root url="file://D:/gradle-2.3/docs/javadoc" />
       </JAVADOC>
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/" />
-        <root url="file://D:/gradle-2.3/samples/antlr/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/application/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/buildDashboard/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/clientModuleDependencies/shared/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/codeQuality/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/ear/earCustomized/war/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/ear/earWithWar/war/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/groovy/mixedJavaAndGroovy/src/main/groovy" />
-        <root url="file://D:/gradle-2.3/samples/groovy/mixedJavaAndGroovy/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/groovy/multiproject/groovycDetector/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/groovy/multiproject/testproject/src/main/groovy" />
-        <root url="file://D:/gradle-2.3/samples/groovy/multiproject/testproject/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/groovy/multiproject/testproject/src/test/groovy" />
-        <root url="file://D:/gradle-2.3/samples/groovy/multiproject/testproject/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/ivypublish/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/ivypublish/subproject/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/javaGradlePlugin/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/apiAndImpl/src/api/java" />
-        <root url="file://D:/gradle-2.3/samples/java/apiAndImpl/src/impl/java" />
-        <root url="file://D:/gradle-2.3/samples/java/apiAndImpl/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/base/prod/java" />
-        <root url="file://D:/gradle-2.3/samples/java/base/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/customizedLayout/src/java" />
-        <root url="file://D:/gradle-2.3/samples/java/customizedLayout/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/api/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/buildSrc/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/buildSrc/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/services/shared/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/services/webservice/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/services/webservice/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/shared/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/multiproject/shared/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/onlyif/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/onlyif/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/quickstart/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/testListener/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/withIntegrationTests/src/integration-test/java" />
-        <root url="file://D:/gradle-2.3/samples/java/withIntegrationTests/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/java/withIntegrationTests/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/jvmComponents/java/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/jvmComponents/scala/src/main/scala" />
-        <root url="file://D:/gradle-2.3/samples/maven-publish/javaProject/subproject/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/maven-publish/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/maven/pomGeneration/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/maven/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/play/advanced/app" />
-        <root url="file://D:/gradle-2.3/samples/scala/mixedJavaAndScala/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/scala/mixedJavaAndScala/src/main/scala" />
-        <root url="file://D:/gradle-2.3/samples/signing/conditional/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/signing/maven/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/sonarRunner/advanced/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/sonarRunner/advanced/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/sonarRunner/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/sonarRunner/quickstart/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/sonar/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/sonar/quickstart/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/filtering/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/jacoco/application/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/jacoco/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/jacoco/quickstart/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/junit/categories/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testReport/core/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testReport/util/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/groups/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/java-jdk14-passing/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/java-jdk14-passing/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/java-jdk15-passing/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/java-jdk15-passing/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/suitexmlbuilder/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/testing/testng/suitexmlbuilder/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/customModel/plugin/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/customModel/tooling/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/eclipse/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/idea/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/model/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/toolingApi/runBuild/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/ant/useExternalAntTaskWithConfig/src" />
-        <root url="file://D:/gradle-2.3/samples/userguide/java/sourceSets/src/intTest/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/javaWithCustomConf/api/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/javaWithCustomConf/shared/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/api/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/api/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/services/personService/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/services/personService/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/shared/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/java/shared/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/webDist/date/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/userguide/multiproject/dependencies/webDist/hello/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/webApplication/customized/src/main/java" />
-        <root url="file://D:/gradle-2.3/samples/webApplication/customized/src/test/java" />
-        <root url="file://D:/gradle-2.3/samples/webApplication/quickstart/src/main/java" />
-        <root url="file://D:/gradle-2.3/src/announce" />
-        <root url="file://D:/gradle-2.3/src/antlr" />
-        <root url="file://D:/gradle-2.3/src/base-services" />
-        <root url="file://D:/gradle-2.3/src/base-services-groovy" />
-        <root url="file://D:/gradle-2.3/src/build-comparison" />
-        <root url="file://D:/gradle-2.3/src/build-init" />
-        <root url="file://D:/gradle-2.3/src/cli" />
-        <root url="file://D:/gradle-2.3/src/code-quality" />
-        <root url="file://D:/gradle-2.3/src/core" />
-        <root url="file://D:/gradle-2.3/src/cunit" />
-        <root url="file://D:/gradle-2.3/src/dependency-management" />
-        <root url="file://D:/gradle-2.3/src/diagnostics" />
-        <root url="file://D:/gradle-2.3/src/ear" />
-        <root url="file://D:/gradle-2.3/src/ide" />
-        <root url="file://D:/gradle-2.3/src/ide-native" />
-        <root url="file://D:/gradle-2.3/src/internal-integ-testing" />
-        <root url="file://D:/gradle-2.3/src/internal-testing" />
-        <root url="file://D:/gradle-2.3/src/ivy" />
-        <root url="file://D:/gradle-2.3/src/ivy/org/gradle/api/publish/ivy/plugins" />
-        <root url="file://D:/gradle-2.3/src/ivy/org/gradle/api/publish/ivy/tasks" />
-        <root url="file://D:/gradle-2.3/src/jacoco" />
-        <root url="file://D:/gradle-2.3/src/javascript" />
-        <root url="file://D:/gradle-2.3/src/jetty" />
-        <root url="file://D:/gradle-2.3/src/language-groovy" />
-        <root url="file://D:/gradle-2.3/src/language-java" />
-        <root url="file://D:/gradle-2.3/src/language-jvm" />
-        <root url="file://D:/gradle-2.3/src/language-native" />
-        <root url="file://D:/gradle-2.3/src/language-scala" />
-        <root url="file://D:/gradle-2.3/src/launcher" />
-        <root url="file://D:/gradle-2.3/src/maven" />
-        <root url="file://D:/gradle-2.3/src/messaging" />
-        <root url="file://D:/gradle-2.3/src/model-core" />
-        <root url="file://D:/gradle-2.3/src/model-groovy" />
-        <root url="file://D:/gradle-2.3/src/native" />
-        <root url="file://D:/gradle-2.3/src/open-api" />
-        <root url="file://D:/gradle-2.3/src/osgi" />
-        <root url="file://D:/gradle-2.3/src/platform-base" />
-        <root url="file://D:/gradle-2.3/src/platform-jvm" />
-        <root url="file://D:/gradle-2.3/src/platform-native" />
-        <root url="file://D:/gradle-2.3/src/platform-play" />
-        <root url="file://D:/gradle-2.3/src/plugin-development" />
-        <root url="file://D:/gradle-2.3/src/plugin-use" />
-        <root url="file://D:/gradle-2.3/src/plugins" />
-        <root url="file://D:/gradle-2.3/src/publish" />
-        <root url="file://D:/gradle-2.3/src/publish/org/gradle/api/publish/plugins" />
-        <root url="file://D:/gradle-2.3/src/reporting" />
-        <root url="file://D:/gradle-2.3/src/resources" />
-        <root url="file://D:/gradle-2.3/src/resources-http" />
-        <root url="file://D:/gradle-2.3/src/scala" />
-        <root url="file://D:/gradle-2.3/src/sonar" />
-        <root url="file://D:/gradle-2.3/src/tooling-api" />
-        <root url="file://D:/gradle-2.3/src/ui" />
-        <root url="file://D:/gradle-2.3/src/wrapper" />
       </SOURCES>
     </library>
     <library name="Gradle: com.ibm.icu:icu4j-core-mojang:51.2">
