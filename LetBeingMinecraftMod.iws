@@ -68,11 +68,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zz/LetMod/InitLetMod.java" afterPath="$PROJECT_DIR$/src/main/java/com/zz/LetMod/InitLetMod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetBeingMinecraftMod.iml" afterPath="$PROJECT_DIR$/LetBeingMinecraftMod.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetBeingMinecraftMod.ipr" afterPath="$PROJECT_DIR$/LetBeingMinecraftMod.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetBeingMinecraftMod.iws" afterPath="$PROJECT_DIR$/LetBeingMinecraftMod.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/gradle.log" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
     </list>
     <ignored path="LetBeingMinecraftMod.iws" />
@@ -394,7 +390,7 @@
       <file leaf-file-name="InitLetMod.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/sources/java/com/zz/LetMod/InitLetMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5176471">
+            <state vertical-scroll-proportion="1.6041666">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
@@ -1844,7 +1840,7 @@
       <workItem from="1430494441072" duration="52000" />
       <workItem from="1430496938206" duration="22415000" />
       <workItem from="1430661933705" duration="8000" />
-      <workItem from="1430661993709" duration="9832000" />
+      <workItem from="1430661993709" duration="10002000" />
     </task>
     <task id="LOCAL-00001" summary="代码初始化，以及空mod">
       <created>1430661623240</created>
@@ -1852,11 +1848,17 @@
       <option name="project" value="LOCAL" />
       <updated>1430661623240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="成功解决了mcmod.info没有作用的问题，&#10;可能是写的不对，也可能是gradle版本的问题">
+      <created>1430717646573</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430717646573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32422000" />
+    <option name="totallyTimeSpent" value="32592000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1878,7 +1880,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32247558" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3213898" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7589577" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47122693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32247558" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2306,7 +2308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/sources/java/com/zz/LetMod/InitLetMod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5176471">
+        <state vertical-scroll-proportion="1.6041666">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
