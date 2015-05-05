@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
  * Created by zz on 2015/5/2.
  */
 
-@Mod(modid = Reference.MOD_ID,name = Reference.MOD_NAME,version = Reference.MOD_VERSION)
+@Mod(modid = Reference.MOD_ID,name = Reference.MOD_NAME,version = Reference.MOD_VERSION,guiFactory =Reference.GUI_FATORY_CLASS )
 public class InitLetMod {
     @Mod.Instance
     public static InitLetMod instance;
